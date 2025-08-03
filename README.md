@@ -113,7 +113,7 @@ To run this project on your local machine, follow these steps:
 **Himanshu kumar**  
 MCA Postgraduate @ Dr B C Roy Engineering college ,Durgapur  
 
-- 🔗 [LinkedIn](www.linkedin.com/in/himanshu-kumar-4214b722b/)  
+- 🔗 [LinkedIn](www.linkedin.com/in/himanshu-kumar-4214b722b)  
 - 📸 [Instagram](https://www.instagram.com/himanshukashyap_20?igsh=MW0zYjNwNnBwcWN6OQ==)
 - 🌐 [Git Hub link](https://github.com/kashypHi/PMSGY-Classification-Project-using-IBM-Cloud-Services.git)
 
