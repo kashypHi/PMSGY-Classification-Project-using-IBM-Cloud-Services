@@ -2,7 +2,7 @@
 
 This repository contains the code for an intelligent web application that classifies Pradhan Mantri Gram Sadak Yojana (PMGSY) projects. The project leverages **IBM Watsonx.ai** for automated machine learning and **Streamlit** for the interactive user interface.
 
-[![Streamlit App](https://img.shields.io/badge/Streamlit-Launch%20Webapp-red?style=for-the-badge&logo=streamlit)](https://pmsgyclassification.streamlit.app/)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Launch%20Webapp-red?style=for-the-badge&logo=streamlit)](https://pmsgy-classification-project-using-ibm-cloud-services.streamlit.app/)
 
 ![App Screenshot](ui.png)
 
